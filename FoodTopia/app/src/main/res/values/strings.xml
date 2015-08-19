@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">FoodTopia</string>
-
-    <string name="hello_matt">Hello Matt!</string>
-    <string name="action_settings">Settings</string>
-    <string name="search_title">Settings</string>
-</resources>
